@@ -172,6 +172,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="part-1.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
@@ -211,6 +212,7 @@
 		<itemref idref="chapter-37.xhtml"/>
 		<itemref idref="chapter-38.xhtml"/>
 		<itemref idref="chapter-39.xhtml"/>
+		<itemref idref="part-2.xhtml"/>
 		<itemref idref="chapter-40.xhtml"/>
 		<itemref idref="chapter-41.xhtml"/>
 		<itemref idref="chapter-42.xhtml"/>
@@ -254,8 +256,6 @@
 		<itemref idref="chapter-80.xhtml"/>
 		<itemref idref="chapter-81.xhtml"/>
 		<itemref idref="chapter-82.xhtml"/>
-		<itemref idref="part-1.xhtml"/>
-		<itemref idref="part-2.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
